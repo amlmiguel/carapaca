@@ -1,0 +1,335 @@
+[
+    {
+      "Name": "Eulalia",
+      "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+      "Price": 180,
+      "ProductColorId": 1,
+      "PictureUrl": "images/products/sb-ang1.png",
+      "ProductTypeId": 3,
+      "ProductBrandId": 6
+    },
+    {
+      "Name": "Eulalia",
+      "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+      "Price": 180,
+      "ProductColorId": 2,
+      "PictureUrl": "images/products/sb-ang1.png",
+      "ProductTypeId": 3,
+      "ProductBrandId": 6
+    },
+    {
+      "Name": "Eulalia",
+      "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+      "Price": 180,
+      "ProductColorId": 3,
+      "PictureUrl": "images/products/sb-ang1.png",
+      "ProductTypeId": 3,
+      "ProductBrandId": 6
+    },
+    {
+      "Name": "Eulalia",
+      "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+      "Price": 180,
+      "ProductColorId": 4,
+      "PictureUrl": "images/products/sb-ang1.png",
+      "ProductTypeId": 3,
+      "ProductBrandId": 6
+    },
+    {
+      "Name": "Eulalia",
+      "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+      "Price": 180,
+      "ProductColorId": 5,
+      "PictureUrl": "images/products/sb-ang1.png",
+      "ProductTypeId": 3,
+      "ProductBrandId": 6
+    },
+    {
+      "Name": "Eulalia",
+      "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+      "Price": 180,
+      "ProductColorId": 6,
+      "PictureUrl": "images/products/sb-ang1.png",
+      "ProductTypeId": 3,
+      "ProductBrandId": 6
+    },
+    {
+      "Name": "Eulalia",
+      "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+      "Price": 180,
+      "ProductColorId": 7,
+      "PictureUrl": "images/products/sb-ang1.png",
+      "ProductTypeId": 3,
+      "ProductBrandId": 6
+    },
+    {
+      "Name": "Eulalia",
+      "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+      "Price": 180,
+      "ProductColorId": 8,
+      "PictureUrl": "images/products/sb-ang1.png",
+      "ProductTypeId": 3,
+      "ProductBrandId": 6
+    },
+    {
+      "Name": "Eulalia",
+      "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+      "Price": 180,
+      "ProductColorId": 9,
+      "PictureUrl": "images/products/sb-ang1.png",
+      "ProductTypeId": 3,
+      "ProductBrandId": 6
+    },
+    {
+      "Name": "Eulalia",
+      "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+      "Price": 180,
+      "ProductColorId": 10,
+      "PictureUrl": "images/products/sb-ang1.png",
+      "ProductTypeId": 3,
+      "ProductBrandId": 6
+    },
+    {
+        "Name": "Monica",
+        "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+        "Price": 180,
+        "ProductColorId": 3,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 1
+      },
+      {
+        "Name": "Monica",
+        "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+        "Price": 180,
+        "ProductColorId": 9,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 1
+      },
+      {
+        "Name": "Maira",
+        "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+        "Price": 180,
+        "ProductColorId": 3,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 3
+      },
+      {
+        "Name": "Maira",
+        "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+        "Price": 180,
+        "ProductColorId": 6,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 3
+      },
+      {
+        "Name": "Maira",
+        "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+        "Price": 180,
+        "ProductColorId": 9,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 3
+      },
+      {
+        "Name": "Maira",
+        "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+        "Price": 180,
+        "ProductColorId": 12,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 3
+      },
+      {
+        "Name": "Maria",
+        "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+        "Price": 180,
+        "ProductColorId": 1,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 3,
+        "ProductBrandId": 5
+      },
+      {
+        "Name": "Maria",
+        "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+        "Price": 180,
+        "ProductColorId": 2,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 3,
+        "ProductBrandId": 5
+      },
+      {
+        "Name": "Maria",
+        "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+        "Price": 180,
+        "ProductColorId": 3,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 3,
+        "ProductBrandId": 5
+      },
+      {
+        "Name": "Maria",
+        "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+        "Price": 180,
+        "ProductColorId": 4,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 3,
+        "ProductBrandId": 5
+      },
+      {
+        "Name": "Maria",
+        "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+        "Price": 180,
+        "ProductColorId": 6,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 3,
+        "ProductBrandId": 5
+      },
+      {
+        "Name": "Maria",
+        "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+        "Price": 180,
+        "ProductColorId": 7,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 3,
+        "ProductBrandId": 5
+      },
+      {
+        "Name": "Maria",
+        "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+        "Price": 180,
+        "ProductColorId": 8,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 3,
+        "ProductBrandId": 5
+      },
+      {
+        "Name": "Maria",
+        "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+        "Price": 180,
+        "ProductColorId": 9,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 3,
+        "ProductBrandId": 5
+      },
+           {
+        "Name": "Maria",
+        "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+        "Price": 180,
+        "ProductColorId": 10,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 3,
+        "ProductBrandId": 5
+      },
+      {
+        "Name": "Lucia",
+        "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+        "Price": 180,
+        "ProductColorId": 4,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 2
+      },
+      {
+        "Name": "Lucia",
+        "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+        "Price": 180,
+        "ProductColorId": 7,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 2
+      },
+      {
+        "Name": "Lucia",
+        "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+        "Price": 180,
+        "ProductColorId": 9,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 2
+      },
+      {
+        "Name": "Lucia",
+        "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+        "Price": 180,
+        "ProductColorId": 10,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 2
+      },
+      {
+        "Name": "Lucia",
+        "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+        "Price": 180,
+        "ProductColorId": 12,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 2
+      },
+      {
+        "Name": "Adri",
+        "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+        "Price": 180,
+        "ProductColorId": 4,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 2,
+        "ProductBrandId": 7
+      },
+      {
+        "Name": "Adri",
+        "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+        "Price": 180,
+        "ProductColorId": 7,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 2,
+        "ProductBrandId": 7
+      },
+      {
+        "Name": "Adri",
+        "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+        "Price": 180,
+        "ProductColorId": 9,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 2,
+        "ProductBrandId": 7
+      },
+      {
+        "Name": "Aurora",
+        "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+        "Price": 180,
+        "ProductColorId": 1,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 4
+      },
+      {
+        "Name": "Aurora",
+        "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+        "Price": 180,
+        "ProductColorId": 5,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 4
+      },
+      {
+        "Name": "Aurora",
+        "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+        "Price": 180,
+        "ProductColorId": 9,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 4
+      },
+      {
+        "Name": "Aurora",
+        "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
+        "Price": 180,
+        "ProductColorId": 10,
+        "PictureUrl": "images/products/sb-ang1.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 4
+      }
+]

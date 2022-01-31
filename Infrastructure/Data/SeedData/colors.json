@@ -1,0 +1,50 @@
+[
+    {
+        "Id": 1,
+        "Name": "Preto"
+    },
+    {
+        "Id": 2,
+        "Name": "Azul Marinho"
+    },
+    {
+        "Id": 3,
+        "Name": "Azul jeans"
+    },
+    {
+        "Id": 4,
+        "Name": "Amarelo Canário"
+    },
+    {
+        "Id": 5,
+        "Name": "Amarelo Queimado"
+    },
+    {
+        "Id": 6,
+        "Name": "Rosa"
+    },
+    {
+        "Id": 7,
+        "Name": "Amaranto"
+    },
+    {
+        "Id": 8,
+        "Name": "Verde Escuro"
+    },
+    {
+        "Id": 9,
+        "Name": "Grafite"
+    },
+    {
+        "Id": 10,
+        "Name": "Verde Água"
+    },
+    {
+        "Id": 11,
+        "Name": "Terra"
+    },
+    {
+        "Id": 12,
+        "Name": "Estampada"
+    }
+]
