@@ -4,7 +4,7 @@
       "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
       "Price": 180,
       "ProductColorId": 1,
-      "PictureUrl": "images/products/sb-ang1.png",
+      "PictureUrl": "images/products/eulalia-preto.jpg",
       "ProductTypeId": 3,
       "ProductBrandId": 6
     },
@@ -13,7 +13,7 @@
       "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
       "Price": 180,
       "ProductColorId": 2,
-      "PictureUrl": "images/products/sb-ang1.png",
+      "PictureUrl": "images/products/eulalia-azul-marinho.jpg",
       "ProductTypeId": 3,
       "ProductBrandId": 6
     },
@@ -22,7 +22,7 @@
       "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
       "Price": 180,
       "ProductColorId": 3,
-      "PictureUrl": "images/products/sb-ang1.png",
+      "PictureUrl": "images/products/eulalia-azul-jeans.jpg",
       "ProductTypeId": 3,
       "ProductBrandId": 6
     },
@@ -31,7 +31,7 @@
       "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
       "Price": 180,
       "ProductColorId": 4,
-      "PictureUrl": "images/products/sb-ang1.png",
+      "PictureUrl": "images/products/amarelo-canario.jpg",
       "ProductTypeId": 3,
       "ProductBrandId": 6
     },
@@ -40,7 +40,7 @@
       "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
       "Price": 180,
       "ProductColorId": 5,
-      "PictureUrl": "images/products/sb-ang1.png",
+      "PictureUrl": "images/products/eulalia-amarelo-queimado.jpg",
       "ProductTypeId": 3,
       "ProductBrandId": 6
     },
@@ -49,7 +49,7 @@
       "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
       "Price": 180,
       "ProductColorId": 6,
-      "PictureUrl": "images/products/sb-ang1.png",
+      "PictureUrl": "images/products/eulalia-rosa.jpg",
       "ProductTypeId": 3,
       "ProductBrandId": 6
     },
@@ -58,7 +58,7 @@
       "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
       "Price": 180,
       "ProductColorId": 7,
-      "PictureUrl": "images/products/sb-ang1.png",
+      "PictureUrl": "images/products/eulalia-amaranto.jpg",
       "ProductTypeId": 3,
       "ProductBrandId": 6
     },
@@ -67,7 +67,7 @@
       "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
       "Price": 180,
       "ProductColorId": 8,
-      "PictureUrl": "images/products/sb-ang1.png",
+      "PictureUrl": "images/products/eulalia-verde-escuro.jpg",
       "ProductTypeId": 3,
       "ProductBrandId": 6
     },
@@ -76,7 +76,7 @@
       "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
       "Price": 180,
       "ProductColorId": 9,
-      "PictureUrl": "images/products/sb-ang1.png",
+      "PictureUrl": "images/products/eulalia-grafite.jpg",
       "ProductTypeId": 3,
       "ProductBrandId": 6
     },
@@ -85,7 +85,7 @@
       "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
       "Price": 180,
       "ProductColorId": 10,
-      "PictureUrl": "images/products/sb-ang1.png",
+      "PictureUrl": "images/products/eulalia-verde-agua.jpg",
       "ProductTypeId": 3,
       "ProductBrandId": 6
     },
@@ -94,7 +94,7 @@
         "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
         "Price": 180,
         "ProductColorId": 3,
-        "PictureUrl": "images/products/sb-ang1.png",
+        "PictureUrl": "images/products/monica-azul-jeans.jpg",
         "ProductTypeId": 1,
         "ProductBrandId": 1
       },
@@ -103,7 +103,7 @@
         "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
         "Price": 180,
         "ProductColorId": 9,
-        "PictureUrl": "images/products/sb-ang1.png",
+        "PictureUrl": "images/products/monica-grafite.jpg",
         "ProductTypeId": 1,
         "ProductBrandId": 1
       },
@@ -112,7 +112,7 @@
         "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
         "Price": 180,
         "ProductColorId": 3,
-        "PictureUrl": "images/products/sb-ang1.png",
+        "PictureUrl": "images/products/maira-azul-jeans.jpg",
         "ProductTypeId": 1,
         "ProductBrandId": 3
       },
@@ -121,7 +121,7 @@
         "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
         "Price": 180,
         "ProductColorId": 6,
-        "PictureUrl": "images/products/sb-ang1.png",
+        "PictureUrl": "images/products/maira-rosa.jpg",
         "ProductTypeId": 1,
         "ProductBrandId": 3
       },
@@ -130,7 +130,7 @@
         "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
         "Price": 180,
         "ProductColorId": 9,
-        "PictureUrl": "images/products/sb-ang1.png",
+        "PictureUrl": "images/products/maira-grafite.jpg",
         "ProductTypeId": 1,
         "ProductBrandId": 3
       },
@@ -139,7 +139,7 @@
         "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
         "Price": 180,
         "ProductColorId": 12,
-        "PictureUrl": "images/products/sb-ang1.png",
+        "PictureUrl": "images/products/maira-estampada.jpg",
         "ProductTypeId": 1,
         "ProductBrandId": 3
       },
@@ -148,7 +148,7 @@
         "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
         "Price": 180,
         "ProductColorId": 1,
-        "PictureUrl": "images/products/sb-ang1.png",
+        "PictureUrl": "images/products/maria-preto.jpg",
         "ProductTypeId": 3,
         "ProductBrandId": 5
       },
@@ -157,7 +157,7 @@
         "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
         "Price": 180,
         "ProductColorId": 2,
-        "PictureUrl": "images/products/sb-ang1.png",
+        "PictureUrl": "images/products/maria-azul-marinho.jpg",
         "ProductTypeId": 3,
         "ProductBrandId": 5
       },
@@ -166,7 +166,7 @@
         "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
         "Price": 180,
         "ProductColorId": 3,
-        "PictureUrl": "images/products/sb-ang1.png",
+        "PictureUrl": "images/products/maria-azul-jeans.jpg",
         "ProductTypeId": 3,
         "ProductBrandId": 5
       },
@@ -175,7 +175,7 @@
         "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
         "Price": 180,
         "ProductColorId": 4,
-        "PictureUrl": "images/products/sb-ang1.png",
+        "PictureUrl": "images/products/maria-amarelo-canario.jpg",
         "ProductTypeId": 3,
         "ProductBrandId": 5
       },
@@ -184,7 +184,7 @@
         "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
         "Price": 180,
         "ProductColorId": 6,
-        "PictureUrl": "images/products/sb-ang1.png",
+        "PictureUrl": "images/products/maria-rosa.jpg",
         "ProductTypeId": 3,
         "ProductBrandId": 5
       },
@@ -193,7 +193,7 @@
         "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
         "Price": 180,
         "ProductColorId": 7,
-        "PictureUrl": "images/products/sb-ang1.png",
+        "PictureUrl": "images/products/maria-amaranto.jpg",
         "ProductTypeId": 3,
         "ProductBrandId": 5
       },
@@ -202,7 +202,7 @@
         "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
         "Price": 180,
         "ProductColorId": 8,
-        "PictureUrl": "images/products/sb-ang1.png",
+        "PictureUrl": "images/products/maria-verde-escuro.jpg",
         "ProductTypeId": 3,
         "ProductBrandId": 5
       },
@@ -211,7 +211,7 @@
         "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
         "Price": 180,
         "ProductColorId": 9,
-        "PictureUrl": "images/products/sb-ang1.png",
+        "PictureUrl": "images/products/maria-grafite.jpg",
         "ProductTypeId": 3,
         "ProductBrandId": 5
       },
@@ -220,7 +220,7 @@
         "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
         "Price": 180,
         "ProductColorId": 10,
-        "PictureUrl": "images/products/sb-ang1.png",
+        "PictureUrl": "images/products/maria-verde-agua.jpg",
         "ProductTypeId": 3,
         "ProductBrandId": 5
       },
@@ -229,7 +229,7 @@
         "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
         "Price": 180,
         "ProductColorId": 4,
-        "PictureUrl": "images/products/sb-ang1.png",
+        "PictureUrl": "images/products/lucia-amarelo-canario.jpg",
         "ProductTypeId": 1,
         "ProductBrandId": 2
       },
@@ -238,7 +238,7 @@
         "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
         "Price": 180,
         "ProductColorId": 7,
-        "PictureUrl": "images/products/sb-ang1.png",
+        "PictureUrl": "images/products/lucia-amaranto.jpg",
         "ProductTypeId": 1,
         "ProductBrandId": 2
       },
@@ -247,7 +247,7 @@
         "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
         "Price": 180,
         "ProductColorId": 9,
-        "PictureUrl": "images/products/sb-ang1.png",
+        "PictureUrl": "images/products/lucia-grafite.jpg",
         "ProductTypeId": 1,
         "ProductBrandId": 2
       },
@@ -256,7 +256,7 @@
         "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
         "Price": 180,
         "ProductColorId": 10,
-        "PictureUrl": "images/products/sb-ang1.png",
+        "PictureUrl": "images/products/lucia-verde-agua.jpg",
         "ProductTypeId": 1,
         "ProductBrandId": 2
       },
@@ -265,7 +265,7 @@
         "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
         "Price": 180,
         "ProductColorId": 12,
-        "PictureUrl": "images/products/sb-ang1.png",
+        "PictureUrl": "images/products/eulalia-estampada.jpg",
         "ProductTypeId": 1,
         "ProductBrandId": 2
       },
@@ -274,7 +274,7 @@
         "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
         "Price": 180,
         "ProductColorId": 4,
-        "PictureUrl": "images/products/sb-ang1.png",
+        "PictureUrl": "images/products/adri-amarelo-canario.jpg",
         "ProductTypeId": 2,
         "ProductBrandId": 7
       },
@@ -283,7 +283,7 @@
         "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
         "Price": 180,
         "ProductColorId": 7,
-        "PictureUrl": "images/products/sb-ang1.png",
+        "PictureUrl": "images/products/adri-amaranto.jpg",
         "ProductTypeId": 2,
         "ProductBrandId": 7
       },
@@ -292,7 +292,7 @@
         "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
         "Price": 180,
         "ProductColorId": 9,
-        "PictureUrl": "images/products/sb-ang1.png",
+        "PictureUrl": "images/products/adri-grafite.jpg",
         "ProductTypeId": 2,
         "ProductBrandId": 7
       },
@@ -301,7 +301,7 @@
         "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
         "Price": 180,
         "ProductColorId": 1,
-        "PictureUrl": "images/products/sb-ang1.png",
+        "PictureUrl": "images/products/aurora-preto.jpg",
         "ProductTypeId": 1,
         "ProductBrandId": 4
       },
@@ -310,7 +310,7 @@
         "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
         "Price": 180,
         "ProductColorId": 5,
-        "PictureUrl": "images/products/sb-ang1.png",
+        "PictureUrl": "images/products/aurora-amarelo-queimado.jpg",
         "ProductTypeId": 1,
         "ProductBrandId": 4
       },
@@ -319,7 +319,7 @@
         "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
         "Price": 180,
         "ProductColorId": 9,
-        "PictureUrl": "images/products/sb-ang1.png",
+        "PictureUrl": "images/products/aurora-grafite.jpg",
         "ProductTypeId": 1,
         "ProductBrandId": 4
       },
@@ -328,7 +328,7 @@
         "Description": "Esse modelo é bastante versátil com possibilidade de usar de três formas",
         "Price": 180,
         "ProductColorId": 10,
-        "PictureUrl": "images/products/sb-ang1.png",
+        "PictureUrl": "images/products/aurora-verde-agua.jpg",
         "ProductTypeId": 1,
         "ProductBrandId": 4
       }
