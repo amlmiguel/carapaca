@@ -2,7 +2,7 @@ using System.Collections.Generic;
 
 namespace API.Helpers
 {
-    public class Pagination<T> where T: class
+    public class Pagination<T> where T : class
     {
         public Pagination(int pageIndex, int pageSize, int count, IReadOnlyList<T> data)
         {

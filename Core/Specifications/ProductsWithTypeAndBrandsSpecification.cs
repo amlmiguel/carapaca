@@ -1,16 +1,17 @@
+using System;
+using System.Linq.Expressions;
 using Core.Entities;
 
 namespace Core.Specifications
 {
     public class ProductsWithTypeAndBrandsSpecification : BaseSpecification<Product>
     {
-        public ProductsWithTypeAndBrandsSpecification(ProductSpecParams productParams) 
-            : base(x =>
-                (string.IsNullOrEmpty(productParams.Search) || x.Name.ToLower().Contains(productParams.Search)) &&
-                (!productParams.BrandId.HasValue || x.ProductBrandId == productParams.BrandId) &&
-                (!productParams.TypeId.HasValue || x.ProductTypeId == productParams.TypeId) &&
-                (!productParams.ColorId.HasValue || x.ProductColorId == productParams.ColorId) 
-            )
+        public ProductsWithTypeAndBrandsSpecification(ProductSpecParams productParams) : base(x => 
+            (string.IsNullOrEmpty(productParams.Search) || x.Name.ToLower().Contains(productParams.Search)) &&
+            (!productParams.BrandId.HasValue || x.ProductBrandId == productParams.BrandId) &&
+            (!productParams.TypeId.HasValue || x.ProductTypeId == productParams.TypeId) &&
+            (!productParams.ColorId.HasValue || x.ProductColorId == productParams.ColorId)
+        )
         {
             AddInclude(x => x.ProductType);
             AddInclude(x => x.ProductBrand);
@@ -18,7 +19,7 @@ namespace Core.Specifications
             AddOrderBy(x => x.Name);
             ApplyPaging(productParams.PageSize * (productParams.PageIndex - 1), productParams.PageSize);
 
-            if(!string.IsNullOrEmpty(productParams.Sort))
+            if (!string.IsNullOrEmpty(productParams.Sort))
             {
                 switch (productParams.Sort)
                 {
@@ -31,7 +32,6 @@ namespace Core.Specifications
                     default:
                         AddOrderBy(n => n.Name);
                         break;
-
                 }
             }
         }

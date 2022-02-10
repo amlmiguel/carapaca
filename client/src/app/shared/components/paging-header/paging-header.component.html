@@ -1,0 +1,17 @@
+<header>
+  <span *ngIf="totalCount && totalCount > 0"> Exbindo
+    <strong>
+      {{(pageNumber - 1) * pageSize + 1}} -
+      {{pageNumber * pageSize
+        > this.totalCount ? this.totalCount : pageNumber * pageSize
+      }}
+    </strong>
+    de
+    <Strong>
+      {{this.totalCount}}
+    </Strong> Resultados
+  </span>
+  <span *ngIf="totalCount === 0">
+    Não há resultado para sua busca
+  </span>
+</header>
