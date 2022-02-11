@@ -49,8 +49,8 @@
         </app-paging-header>
 
         <div class="form-inline mt-2">
-          <input (keyup)="onSearch()" form-control mr-2 #search type="text" style="width: 300px" placeholder="buscar">
-          <button (click) = "onSearch()" class="btn btn-outline-primary my-2">Buscar</button>
+          <input (keyup.enter)="onSearch()" form-control mr-2 #search type="text" style="width: 300px" placeholder="buscar">
+          <button (click) = "onSearch()" class="btn btn-outline-primary my-2 ml-2">Buscar</button>
           <button (click) = "onReset()" class="btn btn-outline-success my-2 ml-2">Limpar</button>
         </div>
       </div>

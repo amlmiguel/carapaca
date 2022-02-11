@@ -5,9 +5,18 @@
   min-width: 25px;
   border-radius: 50%;
   font-size: 1em;
-  background-color: blue;
+  background-color: #007bff;
   color: white;
   text-align: center;
   top: -12px;
   right: 32px;
+}
+
+a {
+  text-decoration: none;
+  color: #343a40;
+
+  &.active {
+    color: #007bff;
+  }
 }
